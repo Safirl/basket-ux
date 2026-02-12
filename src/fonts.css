@@ -1,0 +1,15 @@
+@font-face {
+  font-display: swap;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: bold;
+  src: url("./fonts/HelveticaNeue-Bold.ttf") format("ttf");
+}
+
+@font-face {
+  font-display: swap;
+  font-family: "Helvetica";
+  font-style: normal;
+  font-weight: normal;
+  src: url("./fonts/HelveticaNeue-Medium.ttf") format("ttf");
+}
